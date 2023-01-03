@@ -17,3 +17,10 @@
 .paragraph{
     font-weight: bold;
 }
+.master-branch{
+    background-color: teal;
+    width: 50vw;
+    height: 20vh;
+    margin: 50px auto;
+    padding: 20px;
+}
